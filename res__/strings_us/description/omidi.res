@@ -1,0 +1,12 @@
+CONTAINER Omidi
+{
+	NAME Omidi;
+	INCLUDE Obase;
+
+	GROUP ID_OBJECTPROPERTIES
+	{
+		REAL NOTE	   		{ UNIT METER; MIN 0.0; }
+	}
+
+	INCLUDE Oprimitiveaxis;
+}

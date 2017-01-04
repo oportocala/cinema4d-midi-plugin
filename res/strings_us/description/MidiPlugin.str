@@ -1,0 +1,7 @@
+STRINGTABLE MidiPlugin
+{
+	MidiPlugin "MidiPlugin";
+
+	MIDIPLUGIN_NOTE	"Note";
+    MIDIPLUGIN_NOTE_VALUE	"Note Value";
+}

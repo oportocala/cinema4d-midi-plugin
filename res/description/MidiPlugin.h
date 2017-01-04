@@ -1,0 +1,10 @@
+#ifndef MIDIPLUGIN_H__
+#define MIDIPLUGIN_H__
+
+enum
+{
+    MIDIPLUGIN_NOTE = 10000,
+    MIDIPLUGIN_NOTE_VALUE = 10001,
+};
+
+#endif	// MIDIPLUGIN_H__

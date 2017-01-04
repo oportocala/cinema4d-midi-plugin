@@ -1,0 +1,11 @@
+CONTAINER MidiPlugin
+{
+	NAME MidiPlugin;
+    INCLUDE Obase;
+
+	GROUP ID_OBJECTPROPERTIES
+	{
+        LONG MIDIPLUGIN_NOTE {};
+        LONG MIDIPLUGIN_NOTE_VALUE {};
+	}
+}
