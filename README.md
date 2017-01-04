@@ -16,3 +16,5 @@ Clone or download the contents of this repo into a folder that looks like this:
 ![Menu](http://vladgoran.ro/img/cinema4d-midi/1.png)
 
 ![Plugin](http://vladgoran.ro/img/cinema4d-midi/2.png)
+
+Here is a [video](https://youtu.be/_MPKFVLxePY) of it working
