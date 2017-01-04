@@ -10,6 +10,7 @@ From there you can wire it up using XPresso.
 # Usage
 
 Clone or download the contents of this repo into a folder that looks like this:
+
 `/Applications/MAXON/CINEMA 4D R18/plugins/dev1/MidiPlugin2`
 
 ![Menu](http://vladgoran.ro/img/cinema4d-midi/1.png)
