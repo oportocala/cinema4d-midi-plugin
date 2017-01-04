@@ -1,6 +1,0 @@
-STRINGTABLE Omidi
-{
-	Omidi "Midi Object";
-
-	NOTE			"Note played";
-}
