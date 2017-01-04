@@ -3,5 +3,5 @@
 
 STRINGTABLE
 {
-	IDS_MIDIPLUGIN            "MidiPlugin";
+    IDS_MIDIPLUGIN "Midi Plugin";
 }

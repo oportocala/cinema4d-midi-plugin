@@ -1,7 +1,7 @@
 STRINGTABLE MidiPlugin
 {
-	MidiPlugin "MidiPlugin";
+    MidiPlugin "Midi Plugin";
 
-	MIDIPLUGIN_NOTE	"Note";
+    MIDIPLUGIN_NOTE	"Note";
     MIDIPLUGIN_NOTE_VALUE	"Note Value";
 }
