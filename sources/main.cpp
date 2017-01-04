@@ -1,5 +1,5 @@
-#define ID_HELLOTEST 10233422
-#define ID_MIDI_OBJECT 10233423
+#define ID_MIDIIDENT 10233422
+#define ID_MIDIPLUGIN 1000001
 
 #include "c4d.h"
 #include "c4d_memory_mp.h"
@@ -12,9 +12,6 @@
 #include "MidiPlugin.h"
 #include <thread>
 #include <string>
-
-#define DEFAULT_COLOR Vector(0.5)
-
 
 class MidiPlugin : public ObjectData {
 public:
@@ -70,8 +67,6 @@ public:
     }
 };
 
-#define ID_MIDIPLUGIN   1000001
-
 Bool PluginStart(void)
 {
     RegisterObjectPlugin(IDS_MIDIPLUGIN,
@@ -83,7 +78,7 @@ Bool PluginStart(void)
                          0
                          );
 
-    RegisterCommandPlugin(ID_HELLOTEST,
+    RegisterCommandPlugin(ID_MIDIIDENT,
                           "Identify",
                           0,
                           NULL,
