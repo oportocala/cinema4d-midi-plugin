@@ -22,12 +22,18 @@ Here is a [video](https://youtu.be/_MPKFVLxePY) of it working
 # Work in progress
 
 The plugin at the moment just provides the most basic of implementation.
-The code needs some cleanup and I need to obtain a propper Plugin ID from cinema.
 
-As it is this is a proof of concept. Any help with it is welcome.
+The code needs some cleanup and I need to obtain a propper Plugin ID from MAXON.
+
+As it is this is a proof of concept. 
+
+Any help with it is welcome. 
 
 # ACK
 
 The plugin uses the excelent [rtmidi](https://github.com/thestk/rtmidi) library.
 
 Thanks to @ursachec for the help and support
+
+
+Get in touch: oportocala [\@] gmail com
