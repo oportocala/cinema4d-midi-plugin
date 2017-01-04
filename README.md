@@ -6,3 +6,8 @@ Yellow! This repository contains a very simple (OSX-specifc) implementation of a
 It will expose two values from the very first MIDI device it finds: **note** and **value**.
 
 From there you can wire it up using XPresso.
+
+# Usage
+
+Clone or download the contents of this repo into a folder that looks like this:
+`/Applications/MAXON/CINEMA 4D R18/plugins/dev1/MidiPlugin2`
